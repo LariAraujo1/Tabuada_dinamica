@@ -10,7 +10,7 @@ Um aplicativo simples que gera uma tabela de tabuada de multiplicação dinâmic
 - A tabela é exibida na página em tempo real.
 
 ## Como usar
-1- Clone este repositório para o seu computador: https://github.com/ProfRodolfo/tabuada_dinamica.git
+1- Clone este repositório para o seu computador: https://github.com/LariAraujo1/Tabuada_dinamica.git
 2- Navegue até o diretório do projeto: cd tabuada-dinamica
 3- Abra o arquivo index.html em um navegador da web.
 4- Insira o número da tabuada desejado e a quantidade de vezes que o número deve ser multiplicado nos campos apropriados.
